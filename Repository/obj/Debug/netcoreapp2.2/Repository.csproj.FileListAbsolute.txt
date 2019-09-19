@@ -1,0 +1,14 @@
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Shared.dll
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Shared.pdb
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Repository.pdb

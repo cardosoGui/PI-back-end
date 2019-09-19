@@ -1,0 +1,14 @@
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Shared.dll
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Senac\PI\E-Wine\Repository\bin\Debug\netcoreapp2.2\Shared.pdb
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Infra.csproj.CoreCompileInputs.cache
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Senac\PI\E-Wine\Repository\obj\Debug\netcoreapp2.2\Infra.pdb

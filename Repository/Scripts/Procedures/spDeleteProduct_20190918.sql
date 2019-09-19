@@ -1,0 +1,5 @@
+CREATE PROCEDURE spDeleteProduct
+@Id UNIQUEIDENTIFIER
+AS
+UPDATE Product
+SET IsDeleted = 1 WHERE Id = @Id

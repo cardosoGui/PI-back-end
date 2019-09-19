@@ -1,0 +1,13 @@
+CREATE PROCEDURE spCheckCustomer
+	@Id CHAR(160)
+	AS 
+	SELECT CASE WHEN NOT EXISTS(
+	SELECT Id 
+	FROM [Customer]
+	WHERE Id = @Id
+	)
+	THEN CAST(0 AS BIT)
+	ELSE CAST(1 AS BIT) END
+
+	
+

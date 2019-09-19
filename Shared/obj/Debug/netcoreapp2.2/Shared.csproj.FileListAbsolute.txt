@@ -1,0 +1,9 @@
+C:\Senac\PI\E-Wine\Shared\bin\Debug\netcoreapp2.2\Shared.deps.json
+C:\Senac\PI\E-Wine\Shared\bin\Debug\netcoreapp2.2\Shared.dll
+C:\Senac\PI\E-Wine\Shared\bin\Debug\netcoreapp2.2\Shared.pdb
+C:\Senac\PI\E-Wine\Shared\obj\Debug\netcoreapp2.2\Shared.csprojAssemblyReference.cache
+C:\Senac\PI\E-Wine\Shared\obj\Debug\netcoreapp2.2\Shared.csproj.CoreCompileInputs.cache
+C:\Senac\PI\E-Wine\Shared\obj\Debug\netcoreapp2.2\Shared.AssemblyInfoInputs.cache
+C:\Senac\PI\E-Wine\Shared\obj\Debug\netcoreapp2.2\Shared.AssemblyInfo.cs
+C:\Senac\PI\E-Wine\Shared\obj\Debug\netcoreapp2.2\Shared.dll
+C:\Senac\PI\E-Wine\Shared\obj\Debug\netcoreapp2.2\Shared.pdb

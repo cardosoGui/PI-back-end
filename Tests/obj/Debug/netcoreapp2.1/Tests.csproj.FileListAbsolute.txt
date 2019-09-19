@@ -1,0 +1,28 @@
+C:\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+C:\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+C:\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+C:\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+C:\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Guilherme Ramos\Documents\Senac\PI\E-Wine\Tests\obj\Debug\netcoreapp2.1\Tests.pdb

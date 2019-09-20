@@ -55,7 +55,7 @@ namespace Domain.StoreContext.Handlers
                 // _emailService.Send(email.Address, "guilherme.mendes@interlayers.com.br", "Bem Vindo", "Seja Bem vindo ao Guilherme Store!");
 
                 //Retornar o resultado para tela
-                var result = new CommandResult(true, "Bem-Vindo ao Guilherme Store", new { Id = customer.Id, Name = name.ToString(), Email = email.Address });
+                var result = new CommandResult(true, "Bem-Vindo a E-Wine", new { Id = customer.Id, Name = name.ToString(), Email = email.Address });
 
                 tx.Complete();
                 return result;

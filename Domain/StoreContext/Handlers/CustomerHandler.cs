@@ -86,7 +86,7 @@ namespace Domain.StoreContext.Handlers
             if (Invalid) return new CommandResult(false, "Não foi possível editar os dados", Notifications);
 
             //edita dados do usuário.
-            customerRepository.EditCustomer(customer);
+            customerRepository.EditCustomer(command.Id, command.Document, command.FirstName, command.LastName, command.Email);
 
             // //Enviar um E-mail avisando alteração.
             // _emailService.Send(email.Address, "guilherme.mendes@interlayers.com.br", "Alteração de dados", "Seus dados foram Atualizados.");

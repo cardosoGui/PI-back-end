@@ -1,5 +1,6 @@
 ﻿using Flunt.Validations;
 using Shared.Entities;
+using System;
 
 namespace Domain.StoreContext.Entities
 {

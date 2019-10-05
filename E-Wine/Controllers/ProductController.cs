@@ -2,6 +2,7 @@
 using Domain.StoreContext.Handlers;
 using Domain.StoreContext.Queries.Product;
 using Domain.StoreContext.Repositories;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Shared.Commands;
 using System;
@@ -10,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace E_Wine.Controllers
 {
+    [EnableCors("EwineApiPolicy")]
     public class ProductController : Controller
     {
         private readonly ProductHandler handler;

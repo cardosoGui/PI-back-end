@@ -17,6 +17,6 @@ namespace Domain.StoreContext.Repositories
         Task<IEnumerable<ListCustomerQueryResult>> Get();
         Task<GetCustomerQueryResult> Get(Guid id);
         Task<IEnumerable<ListCustomerOrdersQueryResult>> GetOrders(Guid id);
-        void EditCustomer(Customer customer);
+        void EditCustomer(Guid id, string document, string firstName, string lastName, string email);
     }
 }

@@ -13,7 +13,8 @@ namespace Domain.StoreContext.Repositories
         Task<IEnumerable<GetProductQueryResult>> Get(Guid id);
         void Save(Product product);
         void Delete(Guid id);
-        void EditProduct(Product product);
+        void DeleteById(Guid id);
+        void EditProduct(Guid id, string title, string description, string image, decimal price, int quantityOnHand);
         bool CheckProduct(Guid id);
 
         //Products

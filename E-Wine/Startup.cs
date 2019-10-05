@@ -41,6 +41,12 @@ namespace E_Wine
                 x.SwaggerDoc("v1", new Info { Title = "E-Wine", Version = "v1" });
             });
 
+            services.AddCors(o => o.AddPolicy("EwineApiPolicy", policy =>
+            {
+                policy.AllowAnyOrigin()
+                       .AllowAnyMethod()
+                       .AllowAnyHeader();
+            }));
 
             Settings.ConnectionString = $"{Configuration["ConnectionString"]}";
 

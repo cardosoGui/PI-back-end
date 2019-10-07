@@ -1,7 +1,7 @@
 CREATE PROCEDURE spEditProduct
  @Id UNIQUEIDENTIFIER
 ,@Title VARCHAR(MAX)
-,@Description TEXT
+,@Description VARCHAR(MAX)
 ,@Image VARCHAR(MAX)
 ,@Price MONEY
 ,@QuantityOnHand INT

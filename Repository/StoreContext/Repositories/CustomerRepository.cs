@@ -88,16 +88,16 @@ namespace Repository.StoreContext.Repositories
 
         }
 
-        public void EditCustomer(Customer customer) =>
+        public void EditCustomer(Guid id, string document, string firstName, string lastName, string email) =>
             _context.Connection.Execute(
                "spEditCustomer",
                new
                {
-                   Id = customer.Id,
-                   Document = customer.Document,
-                   FirstName = customer.Name.FirstName,
-                   LastName = customer.Name.LastName,
-                   Email = customer.Email.Address,
+                   Id = id,
+                   Document = document,
+                   FirstName = firstName,
+                   LastName = lastName,
+                   Email = email,
                    AlterationDate = DateTime.Now
                },
                 commandType: CommandType.StoredProcedure);

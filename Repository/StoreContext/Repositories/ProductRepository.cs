@@ -34,17 +34,18 @@ namespace Repository.StoreContext.Repositories
                 },
                  commandType: CommandType.StoredProcedure);
 
-        public void EditProduct(Product product) =>
+        public void EditProduct(Guid id, string title, string description, string image, decimal price, int quantityOnHand) =>
             _context.Connection.Execute(
                "spEditProduct",
                new
                {
-                   Id = product.Id,
-                   Title = product.Title,
-                   Description = product.Description,
-                   Image = product.Image,
-                   Price = product.Price,
-                   QuantityOnHand = product.QuantityOnHand,
+                   Id = id,
+                   Title = title,
+                   Description = description,
+                   Image = image,
+                   Price = price,
+                   QuantityOnHand = quantityOnHand,
+                   RegisterDate = DateTime.Now,
                    AlterationDate = DateTime.Now
 
                },

@@ -2,6 +2,7 @@
 using Domain.StoreContext.Handlers;
 using Domain.StoreContext.Queries.Product;
 using Domain.StoreContext.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Shared.Commands;
@@ -22,22 +23,27 @@ namespace E_Wine.Controllers
             this.repository = repository;
         }
 
+        [Authorize("Bearer")]
         [HttpPost]
         [Route("products")]
         public ICommandResult Post([FromBody]CreateProductCommand command) => handler.Handle(command);
 
+        [Authorize("Bearer")]
         [HttpPut]
         [Route("products")]
         public ICommandResult Put([FromBody]EditProductCommand command) => handler.Handle(command);
 
+        [Authorize("Bearer")]
         [HttpDelete]
         [Route("products")]
         public ICommandResult Delete([FromBody]DeleteProductCommand command) => handler.Handle(command);
 
+        [Authorize("Bearer")]
         [HttpGet]
         [Route("products")]
         public async Task<IEnumerable<ListProductQueryResult>> Get() => await repository.Get();
 
+        [Authorize("Bearer")]
         [HttpGet]
         [Route("products/{id}")]
         public async Task<IEnumerable<GetProductQueryResult>> GetById(Guid id) => await repository.Get(id);
